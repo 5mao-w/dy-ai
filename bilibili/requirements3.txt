@@ -1,0 +1,11 @@
+bilibili-api-python
+Flask
+openai
+pygame
+edge-tts
+langid
+aiohttp
+asyncio
+slack_sdk
+profanity
+elevenlabs
